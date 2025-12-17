@@ -1,6 +1,6 @@
 # UDP Fortune Server
 
-A lightweight, C-based UDP server that delivers random fortunes or quotes to connected clients. The server listens for incoming packets and replies with a text message selected from the included `fortunes` directory.
+A lightweight, C-based UDP server that delivers random fortunes or quotes to connected clients. The server listens for incoming packets and replies with a text message selected from the included `fortunes` directory. ( you could add your own fortune files! )
 
 ## Features
 
