@@ -18,8 +18,8 @@ A lightweight, C-based UDP server that delivers random fortunes or quotes to con
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone <repo-url>
+   cd <repo-name>
    ```
 2. **Compile the program:**
    ```bash
